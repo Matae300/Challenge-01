@@ -8,6 +8,10 @@ This repository showcases my ability to understand and refactor HTML and CSS cod
 
 N/A
 
+## link to deployed page
+
+https://matae300.github.io/Module-01-challenge/Develop/index.html
+
 ## Credits
 
 Matheus Almeida.
