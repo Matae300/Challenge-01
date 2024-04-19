@@ -4,7 +4,7 @@
 
 This repository showcases my ability to understand and refactor HTML and CSS code, addressing any mistakes and improving the overall quality of the codebase.
 
-![github logo](./Develop/assets/images/challenge1)
+![github logo](./Develop/assets/images/challenge1.jpeg)
 
 ## Installation
 
