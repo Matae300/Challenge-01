@@ -1,8 +1,8 @@
-moduel 1 challenge repository
+# HTML CSS Git Challenge: Code Refactor
 
-## Description
+## Overview
 
-This module 1 challenge repository was created to shpw my ability to understand HTML and CSS code, and the correct mistakes made in the code
+This repository showcases my ability to understand and refactor HTML and CSS code, addressing any mistakes and improving the overall quality of the codebase.
 
 ## Installation
 
@@ -10,8 +10,7 @@ N/A
 
 ## Credits
 
-Matheus Almeida
+Matheus Almeida.
 
-## License
-
-MIT Liscense
+License
+This project is licensed under the MIT License.
